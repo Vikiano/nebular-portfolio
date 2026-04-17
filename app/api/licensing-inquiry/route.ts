@@ -23,14 +23,20 @@ function shouldChaos() {
 }
 
 async function writeFallback(payload: Record<string, unknown>) {
+  const isServerless = Boolean(process.env.VERCEL);
+  if (isServerless) {
+    console.log("[licensing-inquiry] fallback captured:", JSON.stringify(payload));
+    return true;
+  }
   const dir = path.join(process.cwd(), ".submitted");
   try {
     await fs.mkdir(dir, { recursive: true });
     const file = path.join(dir, `${Date.now()}-${Math.random().toString(36).slice(2, 8)}.json`);
     await fs.writeFile(file, JSON.stringify(payload, null, 2), "utf-8");
     return true;
-  } catch {
-    return false;
+  } catch (err) {
+    console.log("[licensing-inquiry] fallback write failed, logging payload:", JSON.stringify(payload), err);
+    return true;
   }
 }
 
