@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" role="img" aria-label="Quiet interior, lobby">
+  <rect width="1600" height="1067" fill="#1e1b15"/>
+  <rect y="600" width="1600" height="467" fill="#3f2d1a"/>
+  <rect x="300" y="200" width="1000" height="400" fill="#2b2418" opacity="0.6"/>
+  <g fill="#fbbf24" opacity="0.35">
+    <circle cx="500" cy="300" r="40"/>
+    <circle cx="1100" cy="320" r="38"/>
+  </g>
+  <g fill="#1a1510">
+    <rect x="500" y="700" width="150" height="180" rx="6"/>
+    <rect x="900" y="700" width="150" height="180" rx="6"/>
+    <rect x="700" y="840" width="200" height="100" rx="4"/>
+  </g>
+  <text x="80" y="990" font-family="Georgia, serif" font-size="28" fill="#fed7aa" opacity="0.65">Quiet interior, lobby</text>
+  <text x="80" y="1030" font-family="system-ui" font-size="18" fill="#a16207">Nebular Labs placeholder cover</text>
+</svg>

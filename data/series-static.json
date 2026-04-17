@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "vancouver-street",
+    "title": "Vancouver Street",
+    "description": "Anchored in Coal Harbour and the West End. Weekly frames across seasons.",
+    "theme_tag": "street",
+    "cover_photo_id": "ph_001",
+    "photo_slugs": ["rainy-cardero", "seawall-solitary", "downtown-geometry"],
+    "status": "active",
+    "status_note": null
+  },
+  {
+    "slug": "coal-harbour-waterfront",
+    "title": "Coal Harbour Waterfront",
+    "description": "Seaplanes, seawall, cargo horizon. A slow continuous study of a single harbour.",
+    "theme_tag": "waterfront",
+    "cover_photo_id": "ph_003",
+    "photo_slugs": ["seawall-solitary", "harbour-blue-hour"],
+    "status": "active",
+    "status_note": null
+  },
+  {
+    "slug": "documentary-lagos",
+    "title": "Documentary Lagos",
+    "description": "Return-trip field work. Texture, colour, commerce.",
+    "theme_tag": "documentary",
+    "cover_photo_id": "ph_005",
+    "photo_slugs": ["lagos-market-light"],
+    "status": "active",
+    "status_note": null
+  },
+  {
+    "slug": "portraits",
+    "title": "Portraits",
+    "description": "Series expanding 2026-Q2. First commissioned frames targeted for June release.",
+    "theme_tag": "portrait",
+    "cover_photo_id": "ph_006",
+    "photo_slugs": ["portrait-silhouette"],
+    "status": "expanding",
+    "status_note": "Series expanding 2026-Q2. New frames added as commissioned releases clear."
+  }
+]

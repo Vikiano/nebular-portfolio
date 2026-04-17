@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "vancouver-street",
+    "title": "Vancouver Street",
+    "description": "Rainy mornings, late-afternoon light, quiet commuter geometry. Downtown Vancouver and the West End captured on foot, unposed, one frame at a time.",
+    "cover_photo_id": "ph_001",
+    "order_index": 1,
+    "published_at": "2026-01-10T00:00:00Z"
+  },
+  {
+    "slug": "coal-harbour-waterfront",
+    "title": "Coal Harbour Waterfront",
+    "description": "Seawall studies, seaplane departures, cargo cranes at dusk. A slow portrait of the inner harbour across a single season.",
+    "cover_photo_id": "ph_003",
+    "order_index": 2,
+    "published_at": "2026-02-01T00:00:00Z"
+  },
+  {
+    "slug": "documentary-lagos",
+    "title": "Documentary Lagos",
+    "description": "Open-air market studies, return-trip field work. Colour, shadow, texture, commerce. Framed with respect for subjects and scene.",
+    "cover_photo_id": "ph_005",
+    "order_index": 3,
+    "published_at": "2026-02-18T00:00:00Z"
+  },
+  {
+    "slug": "portraits",
+    "title": "Portraits",
+    "description": "Commissioned and editorial portraits. Natural light, mid-frame, conversational.",
+    "cover_photo_id": "ph_006",
+    "order_index": 4,
+    "published_at": "2026-03-01T00:00:00Z"
+  },
+  {
+    "slug": "quiet-interiors",
+    "title": "Quiet Interiors",
+    "description": "Domestic surfaces, hotel lobbies, architectural fragments. Found still lifes in places that were never meant to be photographed.",
+    "cover_photo_id": "ph_007",
+    "order_index": 5,
+    "published_at": "2026-03-12T00:00:00Z"
+  },
+  {
+    "slug": "craft-fieldwork",
+    "title": "Craft Fieldwork",
+    "description": "Tools, hands, process. Long-term project focused on makers and their working surfaces.",
+    "cover_photo_id": "ph_008",
+    "order_index": 6,
+    "published_at": "2026-03-25T00:00:00Z"
+  }
+]

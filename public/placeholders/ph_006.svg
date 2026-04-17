@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" role="img" aria-label="Portrait, silhouette">
+  <defs>
+    <radialGradient id="win6" cx="0.75" cy="0.35" r="0.5">
+      <stop offset="0" stop-color="#fed7aa"/>
+      <stop offset="0.4" stop-color="#fb923c" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1067" fill="#05070d"/>
+  <rect width="1600" height="1067" fill="url(#win6)"/>
+  <path d="M 620 300 C 620 200 780 160 780 280 C 780 340 760 380 760 420 C 860 430 900 560 900 680 L 900 1067 L 500 1067 L 500 740 C 500 620 540 500 620 480 C 620 440 600 380 620 300 Z" fill="#05070d"/>
+  <text x="80" y="990" font-family="Georgia, serif" font-size="28" fill="#fed7aa" opacity="0.7">Portrait, silhouette</text>
+  <text x="80" y="1030" font-family="system-ui" font-size="18" fill="#c2410c">Nebular Labs placeholder cover</text>
+</svg>

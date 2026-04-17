@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1067" role="img" aria-label="Seawall, solitary">
+  <defs>
+    <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="0.5" stop-color="#334155"/>
+      <stop offset="1" stop-color="#64748b"/>
+    </linearGradient>
+    <linearGradient id="water3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="640" fill="url(#sky3)"/>
+  <rect y="640" width="1600" height="427" fill="url(#water3)"/>
+  <polygon points="200,520 380,460 520,520 700,480 820,520 1020,470 1220,520 1420,490 1600,520 1600,640 0,640 0,520" fill="#1e293b" opacity="0.55"/>
+  <circle cx="860" cy="720" r="6" fill="#f1f5f9" opacity="0.85"/>
+  <rect x="853" y="726" width="14" height="40" fill="#05070d"/>
+  <text x="80" y="990" font-family="Georgia, serif" font-size="28" fill="#cbd5e1" opacity="0.7">Seawall, solitary</text>
+  <text x="80" y="1030" font-family="system-ui" font-size="18" fill="#64748b">Nebular Labs placeholder cover</text>
+</svg>
